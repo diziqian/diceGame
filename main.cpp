@@ -9,7 +9,7 @@
 #include "dicegame.h"
 
 #define TEST_NUM 3
-#define TM_DISTANCE 1
+#define TM_DISTANCE 3
 #define WIN_MUL  1000
 
 void sleepInMulOS()
